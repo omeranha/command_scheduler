@@ -1,6 +1,8 @@
 #ifndef APPOINTMENTS_H
 #define APPOINTMENTS_H
 
+#include <stdbool.h>
+
 #include "esp_err.h"
 
 #define MAX_APPOINTMENTS 5
